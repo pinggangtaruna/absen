@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485071512473",
+    "project_id": "absencuy-cc529",
+    "storage_bucket": "absencuy-cc529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485071512473:android:fcd87dae4edfc64e812908",
+        "android_client_info": {
+          "package_name": "com.example.absencuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485071512473-82i6fl7589f23t496430uhd8hn5gp5c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFf97UbayA34ZWjDqu4jk3pygEL_RAy-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485071512473-82i6fl7589f23t496430uhd8hn5gp5c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AbsenActivity"
+    android:background="@drawable/background">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="HADIR"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="79dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!1"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="107dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!2"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="126dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!3"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="145dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!4"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="164dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!5"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="183dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!6"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="202dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!7"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="221dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!8"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="240dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!9"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="259dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/namaPindah10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World!10"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="278dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TIDAK HADIR"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="79dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!1"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="107dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!2"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="126dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!3"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="145dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!4"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="164dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!5"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="183dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!6"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="202dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!7"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="221dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!8"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="240dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!9"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="259dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/sandiPindah10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello World2!10"
+                tools:layout_editor_absoluteX="266dp"
+                tools:layout_editor_absoluteY="278dp"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/absen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg"
+                android:text="Absensi"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="656dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="Daftar Hadir"
+                android:textSize="30sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
